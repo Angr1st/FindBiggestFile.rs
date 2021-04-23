@@ -8,7 +8,7 @@ Build it using ```cargo build --release```.
 
 ## Create Example Config
 
-Running it with ```./find_biggest_file.exe --init``` generates an example config file for you to fill out. You can also find the example config inside this [repository](/FindBiggestFile.rs/example/Example_Config.json).
+Running it with ```./find_biggest_file.exe --init``` generates an example config file for you to fill out. You can also find the example config inside this [repository](/example/Example_Config.json).
 
 ## Supplying a Config
 
