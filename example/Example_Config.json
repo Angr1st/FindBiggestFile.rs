@@ -1,0 +1,14 @@
+{
+  "search_patterns": [
+    {
+      "Basic": "test.txt"
+    },
+    {
+      "BiggestFileInFolder": {
+        "folder": "Example",
+        "file_type": "txt"
+      }
+    }
+  ],
+  "root_folder": "."
+}
