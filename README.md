@@ -12,7 +12,7 @@ Running it with ```./find_biggest_file.exe --init``` generates an example config
 
 ## Supplying a Config
 
-Running it with ```.find_biggest_file.exe --configfilepath Example_Config.json``` or ```.find_biggest_file.exe -c Example_Config.json```  executes the search for your files.
+Running it with ```./find_biggest_file.exe --configfilepath Example_Config.json``` or ```./find_biggest_file.exe -c Example_Config.json```  executes the search for your files.
 
 ## Finding the biggest file of a certain type in a certain folder
 
